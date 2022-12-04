@@ -1,0 +1,30 @@
+{
+    "data": [{
+        "username": "学号",
+        "password": "身份证后八位",
+        "code_province": "41",					// 省份代码
+        "code_city": "4153",					// 市区代码
+        "location": "河南省.郑州市.郑州大学北校区",		// 具体地址
+        "jingdu": "113.662514",					// 经度
+        "weidu": "34.781799",					// 纬度
+        "send_type": "serverchan",				// 通知类型
+        "send_parameter": "SCT1XXXX",				// server酱的send_parameter
+        "niuma": "HelloKitty"					// who 发给谁写谁，随便填
+    }
+    // 多个账户复制
+    ,
+    {
+        "username": "学号",
+        "password": "身份证后八位",
+        "code_province": "41",					// 省份代码
+        "code_city": "4153",					// 市区代码
+        "location": "河南省.郑州市.郑州大学北校区",		// 具体地址
+        "jingdu": "113.662514",					// 经度
+        "weidu": "34.781799",					// 纬度
+        "send_type": "serverchan",				// 通知类型
+        "send_parameter": "SCT1XXXX",				// server酱的send_parameter
+        "niuma": "HelloKitty"					// who 发给谁写谁，随便填
+    }
+    ]
+}
+
